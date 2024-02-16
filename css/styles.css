@@ -1,0 +1,11 @@
+img{
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin: right;
+    border-radius: 50%;
+}
+table{
+    border: "2";
+    color:black;
+}
